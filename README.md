@@ -1,5 +1,5 @@
-# ai-essay-evaluation
-I collected student essays and ran them through GPTZero to test its accuracy. The essays will not be released publicly.
+# Dataset Creation and Analysis for Evaluating AI Text Detection on Student Essays
+I collected 160 student essays and ran them through GPTZero to test its accuracy. The essays will not be released publicly. They will be kept by [Tom Goldstein](https://www.cs.umd.edu/~tomg/) at the University of Maryland. This effort was for my Capstone in Machine Learning, CMSC473, during Fall 2023 at the University of Maryland.
 
 In the file, identifiers_removed_merged.csv, the column "Timestamp" is a unique person. The "File Name" corresponds to a file that is in a privately held document repository. "Classification" is the label that GPTZero has put on each essay. "AI Probability (%)" is the output probability of GPTZero for each essay.
 
