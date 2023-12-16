@@ -1,6 +1,8 @@
 # ai-essay-evaluation
 I collected student essays and ran them through GPTZero to test its accuracy. The essays will not be released publicly.
 
+In the file, identifiers_removed_merged.csv, the column "Timestamp" is a unique person. The "File Name" corresponds to a file that is in a privately held document repository. "Classification" is the label that GPTZero has put on each essay. "AI Probability (%)" is the output probability of GPTZero for each essay.
+
 ![image](https://github.com/neilsorkin19/ai-essay-evaluation/assets/37482104/0de5ad8c-9035-41ab-a5b7-a8f9fe585cd5)
 ![image](https://github.com/neilsorkin19/ai-essay-evaluation/assets/37482104/5e067403-273f-4fc2-9abe-b0a25a4d58e0)
 ![image](https://github.com/neilsorkin19/ai-essay-evaluation/assets/37482104/7d8e50d9-7568-4d46-be8f-40a86742d86a)
